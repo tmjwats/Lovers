@@ -143,6 +143,23 @@ a:link {
     width: 60%;
 }
 
+#work-image2{
+  left: 0px;
+  right: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+
+#work-image3{
+  left: 0px;
+  right: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+}
+
 #work-image a img{
     width: 100%;
     height: 100%;
@@ -154,6 +171,32 @@ a:link {
   margin-left: auto;
   margin-right: auto;
   width: 100%;
+}
+
+#work-image2 a img{
+  width: 100%;
+  height: 100%;
+  left: 0px;
+  right: 0px;
+  margin-bottom: 3%;
+  margin-top: 3%;
+  display: block;
+margin-left: auto;
+margin-right: auto;
+width: 100%;
+}
+
+#work-image3 a img{
+  width: 100%;
+  height: 100%;
+  left: 0px;
+  right: 0px;
+  margin-bottom: 3%;
+  margin-top: 3%;
+  display: block;
+margin-left: auto;
+margin-right: auto;
+width: 100%;
 }
 
 
