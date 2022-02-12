@@ -184,6 +184,7 @@ a:link {
 margin-left: auto;
 margin-right: auto;
 width: 100%;
+padding-top: 10%;
 }
 
 #work-image3 a img{
@@ -197,6 +198,7 @@ width: 100%;
 margin-left: auto;
 margin-right: auto;
 width: 100%;
+padding-top: 10%;
 }
 
 
@@ -218,29 +220,65 @@ width: 100%;
  
 
   @media screen and (orientation: portrait) {
-    .prose {
-      font-size: 16px;
-    }
-    .caption {
-      font-size: 12px;
-    }
-    .hidden {
-      font-size: 30px;
-    }
     #work-image{
-      width: 100%;
       left: 0px;
       right: 0px;
       margin-left: auto;
       margin-right: auto;
-    }
-    #work-image a img{
-        width: 100%;
-        left: 0px;
-        right: 0px;
-        position: relative;
-        margin-bottom: 3%;
-        margin-top: 3%;
+      width: 100%;
+  }
+  
+  #work-image2{
+    left: 0px;
+    right: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+  }
+  
+  
+  #work-image3{
+    left: 0px;
+    right: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+  }
+  
+  #work-image a img{
+      width: 100%;
+      left: 0px;
+      right: 0px;
+      margin-bottom: 3%;
+      margin-top: 3%;
+      display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+  }
+  
+  #work-image2 a img{
+    width: 100%;
+    left: 0px;
+    right: 0px;
+    margin-bottom: 3%;
+    margin-top: 3%;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  }
+  
+  #work-image3 a img{
+    width: 100%;
+    left: 0px;
+    right: 0px;
+    margin-bottom: 3%;
+    margin-top: 3%;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
   }
 }
 
