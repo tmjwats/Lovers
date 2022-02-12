@@ -224,6 +224,9 @@ width: 100%;
     .caption {
       font-size: 12px;
     }
+    .hidden {
+      font-size: 30px;
+    }
     #work-image{
       width: 100%;
       left: 0px;
