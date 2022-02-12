@@ -220,6 +220,19 @@ padding-top: 10%;
  
 
   @media screen and (orientation: portrait) {
+    
+    .prose {
+      font-size: 18px;
+    }
+
+    .caption {
+      font-size: 18px;
+    }
+
+    .hidden {
+      font-size: 32px;
+    }
+    
     #work-image{
       left: 0px;
       right: 0px;
