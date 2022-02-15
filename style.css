@@ -55,7 +55,7 @@ h1 {
               /* position: absolute;                */
               /* top: 50%;                         */
               /* transform: translate(0, -50%); */
-              font-size: 24px;
+              font-size: 28px;
               text-align: center;
             }
 
@@ -177,7 +177,7 @@ a:link {
   right: 0px;
   margin-left: auto;
   margin-right: auto;
-  width: 80%;
+  width: 70%;
 }
 
 
@@ -221,7 +221,7 @@ a:link {
 margin-left: auto;
 margin-right: auto;
 width: 100%;
-padding-top: 3%;
+padding-top: 0%;
 }
 
 #work-image3 a img{
@@ -248,7 +248,7 @@ padding-top: 3%;
   display: block;
 margin-left: auto;
 margin-right: auto;
-padding-top: 3%;
+padding-top: 0%;
 }
 
 
