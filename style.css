@@ -21,6 +21,69 @@ h1 {
   transform: translate(-50%, -50%);
 }
 
+.thumb2{
+  position: fixed;
+  top: 25%;
+  left: 56%;
+  width: 150px;
+  /* bring your own prefixes */
+  transform: translate(-50%, -50%);
+}
+
+.thumb3{
+  position: fixed;
+  top: 30%;
+  left: 50%;
+  width: 150px;
+  /* bring your own prefixes */
+  transform: translate(-50%, -50%);
+}
+
+.thumb4{
+  position: fixed;
+  top: 40%;
+  left: 35%;
+  width: 150px;
+  /* bring your own prefixes */
+  transform: translate(-50%, -50%);
+}
+
+.thumb5{
+  position: fixed;
+  top: 70%;
+  left: 70%;
+  width: 150px;
+  /* bring your own prefixes */
+  transform: translate(-50%, -50%);
+}
+
+.thumb6{
+  position: fixed;
+  top: 25%;
+  left: 60%;
+  width: 150px;
+  /* bring your own prefixes */
+  transform: translate(-50%, -50%);
+}
+
+.thumb7{
+  position: fixed;
+  top: 55%;
+  left: 90%;
+  width: 150px;
+  /* bring your own prefixes */
+  transform: translate(-50%, -50%);
+}
+
+.thumb8{
+  position: fixed;
+  top: 30%;
+  left: 15%;
+  width: 150px;
+  /* bring your own prefixes */
+  transform: translate(-50%, -50%);
+}
+
 .prose {
     font-family: 'univers_55regular';
     color: white;
