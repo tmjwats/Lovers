@@ -12,6 +12,15 @@ h1 {
   align-items: center;
 }
 
+.thumb{
+  position: fixed;
+  top: 60%;
+  left: 24%;
+  width: 150px;
+  /* bring your own prefixes */
+  transform: translate(-50%, -50%);
+}
+
 .prose {
     font-family: 'univers_55regular';
     color: white;
