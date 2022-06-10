@@ -250,6 +250,16 @@ h1 {
   transform: translate(-50%, -50%);
   z-index: -1;
 }
+.thumbplan{
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  width: 100%;
+  /* bring your own prefixes */
+  transform: translate(-50%, -50%);
+  z-index: -1;
+}
+
 
 .prose {
     font-family: 'univers_55regular';
