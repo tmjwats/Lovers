@@ -92,6 +92,16 @@ h1 {
   z-index: -1;
 }
 
+.thumb10{
+  position: fixed;
+  top: 70%;
+  left: 50%;
+  width: 50%;
+  width: 20%;
+  z-index: -1;
+  transform: translate(-50%, -50%);
+}
+
 .thumbb{
   position: fixed;
   top: 55%;
