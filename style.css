@@ -377,6 +377,7 @@ h1 {
   a.even:hover {
     color: #BC0202;
     text-decoration: none;
+    z-index: -2;
   }  
    a:active {
     color: white;
@@ -421,6 +422,7 @@ a:link {
     a.secret:hover {
       color:  #BC0202;
       text-decoration: none;
+      z-index: -2;
     }
 
   #work-image{
